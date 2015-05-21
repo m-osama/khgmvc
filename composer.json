@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smalot/pdfparser": "*",
+        "jv2222/ezsql": "dev-master"
+    }
+}
